@@ -24,3 +24,4 @@ All the projects projects involved in this course are saved in this [repo](https
 - [React Native](https://studies.cs.helsinki.fi/stats/api/certificate/fs-react-native-2020/en/5f95e72aa9040cf8fc9391d2ee56fd40)
 - [CI/CD](https://studies.cs.helsinki.fi/stats/api/certificate/fs-cicd/en/a34d8f02797fff65ca49346363ba178f)
 - [Containers](https://studies.cs.helsinki.fi/stats/api/certificate/fs-containers/en/99d723e6febb69c55a175cde0d687960)
+- [Relational databases](https://studies.cs.helsinki.fi/stats/api/certificate/fs-psql/en/0138192659debaffb15e4ef89750b35e)
